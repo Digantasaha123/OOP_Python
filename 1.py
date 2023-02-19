@@ -1,1 +1,1 @@
-print("Hi")
+print("Kopa Python")
